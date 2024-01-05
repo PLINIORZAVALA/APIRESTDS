@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\1.0.HelpersLayer\bin\Debug\net7.0\1.0.HelpersLayer.deps.json
+C:\Users\USER\source\repos\1.0.HelpersLayer\bin\Debug\net7.0\1.0.HelpersLayer.dll
+C:\Users\USER\source\repos\1.0.HelpersLayer\bin\Debug\net7.0\1.0.HelpersLayer.pdb
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.dll
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\refint\1.0.HelpersLayer.dll
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\1.0.HelpersLayer.pdb
+C:\Users\USER\source\repos\1.0.HelpersLayer\obj\Debug\net7.0\ref\1.0.HelpersLayer.dll

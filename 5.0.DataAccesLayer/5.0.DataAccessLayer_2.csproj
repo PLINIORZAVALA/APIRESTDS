@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_5._0.DataAccesLayer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0.0.DataTransferLayer_2\0.0.DataTransferLayer_2.csproj" />
+    <ProjectReference Include="..\4.0.RepositoryLayer_2\4.0.RepositoryLayer_2.csproj" />
+  </ItemGroup>
+
+</Project>

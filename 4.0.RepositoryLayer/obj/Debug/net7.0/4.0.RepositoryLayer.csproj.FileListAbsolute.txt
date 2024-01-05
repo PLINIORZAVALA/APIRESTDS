@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\4.0.RepositoryLayer\bin\Debug\net7.0\4.0.RepositoryLayer.deps.json
+C:\Users\USER\source\repos\4.0.RepositoryLayer\bin\Debug\net7.0\4.0.RepositoryLayer.dll
+C:\Users\USER\source\repos\4.0.RepositoryLayer\bin\Debug\net7.0\4.0.RepositoryLayer.pdb
+C:\Users\USER\source\repos\4.0.RepositoryLayer\bin\Debug\net7.0\0.0.DataTransferLayer.dll
+C:\Users\USER\source\repos\4.0.RepositoryLayer\bin\Debug\net7.0\0.0.DataTransferLayer.pdb
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.csproj.CopyComplete
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.dll
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\refint\4.0.RepositoryLayer.dll
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\4.0.RepositoryLayer.pdb
+C:\Users\USER\source\repos\4.0.RepositoryLayer\obj\Debug\net7.0\ref\4.0.RepositoryLayer.dll
